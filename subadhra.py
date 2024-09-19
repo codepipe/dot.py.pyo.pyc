@@ -24,5 +24,3 @@ git branch
 git checkout
 git cherry-pick
 git tag
-yes, we understand that the ssh autentication to the systems, 
-from git client to the remote hub git repos
