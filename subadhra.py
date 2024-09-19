@@ -3,11 +3,15 @@ yes, following commands need to know
 git commands:
 ============
 git clone
+git add 
+git status
 git fetch
 git pull
 git push
 git commit
-git config 
+git config --global user.name "codepipe"
+git config --global user.email "automation.hub6@gmail.com"
+git config --list
 git log
 git reflog
 git init
